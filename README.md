@@ -1,4 +1,4 @@
-# high_school_programming_class_2
+# Java-High_School_2013-2014
 
 This is a list of all the programs I coded and learned with in the second class. All code does compile and run. **And unlike the first class, I was only given prompts for this class and told to program. So all this code is unique.**
 
